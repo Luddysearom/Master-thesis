@@ -7,6 +7,7 @@ The metadata used are a .xlsx file provenient from a systematic search for the o
 I will explain the meaning of each colunm in the dataset. The R code used for data manipulation are in this repositoire.
 
 **ID:** The ID number of that article. Each scientific article elected for the review have one unique ID number. Each row from the dataset are a single observation of parasite invasion.
+
 **DOI:** That scientific article's DOI, when available.
 **WoS categories:** The scientific field of research, classified from Web of Science. The articles not present in the Web of Science database are in blank for this column.
 **Research Areas:** The same as *WoS categories* but for the Scopus classification.
